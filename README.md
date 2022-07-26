@@ -37,7 +37,7 @@ Eu sou a Stephany, desenvolvedora de Aplicações Web!
   <img align="center" alt="Ste-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  
   
-  <img align="right" alt="Ste-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1WycDMNc0NQn0i3pV7DUeHvMc77tZFJZI/view?usp=sharing">
+  <img align="right" alt="Ste-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70411182/181080442-e7c53a7a-618e-415c-b1d9-8e379aa06af9.png">
 </div>
   
   ##
