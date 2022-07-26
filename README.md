@@ -41,6 +41,8 @@ Eu sou a Stephany, desenvolvedora de Aplicações Web!
 </div>
   
   ##
+  
+  ![Snake animation](https://github.com/StephanyKariy/StephanyKariy/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **StephanyKariy/StephanyKariy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
