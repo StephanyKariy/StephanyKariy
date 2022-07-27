@@ -1,6 +1,6 @@
-### <H1> Heey, there! 🧸 
+### <H1> heey, there! 🧸 
 
-<h3> Eu sou a Stephany, desenvolvedora de Aplicações Web!<br><br>
+<h3> eu sou a Stephany, desenvolvedora de Aplicações Web!<br><br>
 
 <div align="center">
   <a href="https://github.com/StephanyKariy">
