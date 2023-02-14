@@ -1,4 +1,4 @@
-###<H1> heey, there! 🧸 
+##<H1> heey, there! 🧸 
 
     <h3> eu sou a Stephany, desenvolvedora de Aplicações Web!<br><br>
     
@@ -45,7 +45,7 @@
       
  ![Snake animation](https://github.com/StephanyKariy/StephanyKariy/blob/output/github-contribution-grid-snake.svg)
     </div>
-        </div></div>
+        </div>
 
     <!-->
     **StephanyKariy/StephanyKariy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
