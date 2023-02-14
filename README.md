@@ -2,7 +2,7 @@
 
 <h3> eu sou a Stephany, desenvolvedora de Aplicações Web!<br><br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/StephanyKariy">
     
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=StephanyKariy&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
@@ -37,7 +37,7 @@
 </div>
   
   ##
-<div style='text-align:left'>
+<div align="left">
     <a href="https://www.instagram.com/tekariya/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
  <a href="https://www.twitch.tv/skariya__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
