@@ -22,6 +22,8 @@
   <img align="center" alt="Ste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!-- #5 C-->
   <img align="center" alt="Ste-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <!-- #11 Php-->
+   <img align="center" alt="Ste-Php" height="30" width="40" src="https://icongr.am/devicon/php-plain.svg?size=128&color=ffffff">
   <!-- #6 java-->
   <img align="center" alt="Ste-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <!-- #7 js-->
@@ -34,8 +36,10 @@
   <img align="center" alt="Ste-Filezilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
   <!-- #11 Mysql-->
   <img align="center" alt="Ste-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- 
-  
+ <!-- #12 Wordpress-->
+ <img align="center" alt="Ste-Wordpress" height="30" width="40" src="https://icongr.am/devicon/wordpress-plain.svg?size=128&color=ffffff">       
+ <!-- #12 Wordpress-->
+	
   <img align="right" alt="Ste-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70411182/181080442-e7c53a7a-618e-415c-b1d9-8e379aa06af9.png">
 </div>
   
