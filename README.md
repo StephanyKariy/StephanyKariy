@@ -13,7 +13,7 @@
   <!-- #0 python-->
     <img align="center" alt="Ste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- #1 django-->
-  <img align="center" alt="Ste-Django" height="30" width="40" src="https://icongr.am/devicon/django-plain.svg?size=148&color=be38f3">
+  <img align="center" alt="Ste-Django" height="30" width="40" src="https://icongr.am/devicon/django-plain.svg?size=128&color=ff8ad8">
   <!-- #2 pycharm-->
   <img align="center" alt="Ste-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   <!-- #3 html-->
@@ -38,7 +38,9 @@
   <img align="center" alt="Ste-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  <!-- #12 Wordpress-->
  <img align="center" alt="Ste-Wordpress" height="30" width="40" src="https://icongr.am/devicon/wordpress-plain.svg?size=128&color=ffffff">       
- <!-- #12 Wordpress-->
+ <!-- #12 git-->
+ <img align="center" alt="Ste-git" height="30" width="40" src="https://icongr.am/devicon/git-plain.svg?size=128&color=ff8ad8">	
+ 
 	
   <img align="right" alt="Ste-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70411182/181080442-e7c53a7a-618e-415c-b1d9-8e379aa06af9.png">
 </div>
