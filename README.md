@@ -13,7 +13,7 @@
   <!-- #0 python-->
     <img align="center" alt="Ste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- #1 django-->
-  <img align="center" alt="Ste-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Ste-Django" height="30" width="40" src="https://icongr.am/devicon/django-plain.svg?size=148&color=be38f3">
   <!-- #2 pycharm-->
   <img align="center" alt="Ste-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   <!-- #3 html-->
