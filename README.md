@@ -36,7 +36,6 @@
   <img align="right" alt="Ste-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/70411182/181080442-e7c53a7a-618e-415c-b1d9-8e379aa06af9.png">
 </div>
   
-  ##
     <div style="display: inline_block">
     <a href="https://www.instagram.com/tekariya/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
